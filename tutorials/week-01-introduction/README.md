@@ -14,7 +14,7 @@ By the end of this week, you should be able to:
 2. Identify decisions and possible distortions at different stages of a digital research workflow.
 3. Distinguish between the central course repository and your personal portfolio repository.
 4. Navigate a GitHub repository through the web browser.
-5. Upload a file and edit a Markdown journal entry without using the command line.
+5. Edit and save a Markdown journal entry without using the command line.
 6. Describe how several digital methods can produce different perspectives on the same historical dataset.
 
 ## Part 1 The Digital History Workflow
@@ -58,24 +58,23 @@ The instructor will provide a link to the student portfolio template.
 1. Open the template repository.
 2. Select **Use this template**.
 3. Select **Create a new repository**.
-4. Name the repository using the convention provided in class.
+4. Name the repository using the following template: `applied-digital-history-portfolio-{SURNAME}`.
 5. Set the repository visibility to **Private**.
 6. Create the repository.
 7. Add the instructor as a collaborator using the instructions provided in class.
 
 Your repository already contains folders for all weekly exercises and the final project. You do not need to install Git or use the command line.
 
-## Part 3 First Repository Exercise
+## Part 3 Complete Your First Journal Entry
 
 Complete the following through the GitHub website:
 
-1. Open `weekly-work/week-01/` in your personal repository.
-2. Upload the file created during the introductory class activity.
-3. Give the change a short description, such as `Add Week 1 exercise`.
-4. Open `journal/week-01.md`.
-5. Select the edit button.
-6. Complete the Week 1 journal entry.
-7. Save the changes with a description such as `Complete Week 1 journal`.
+1. Open `journal/week-01.md` in your personal repository.
+2. Select the edit button.
+3. Complete the Week 1 journal entry.
+4. Select **Commit changes**.
+5. Enter a description such as `Complete Week 1 journal`.
+6. Select **Commit changes** again to save the file.
 
 In GitHub, saving a change to a repository is called making a **commit**. You do not need to learn Git commands for this course.
 
@@ -83,28 +82,27 @@ In GitHub, saving a change to a repository is called making a **commit**. You do
 
 Respond briefly to the following questions:
 
-1. Which digital method shown in class most interested you, and why?
-2. What kinds of historical sources or questions might you like to investigate?
-3. What aspect of the course currently seems most unfamiliar or difficult?
+1. Why are you taking this course?
+2. What would you like to learn or be able to do by the end of it?
+3. Which tool or method in the course most interests you, and why?
+4. What type of history do you study or find most interesting?
+5. Do you already have a dataset, collection of sources, or possible project topic in mind? If so, describe it briefly. It is entirely acceptable not to have one yet.
 
 ## Files to Submit
 
 Your personal repository should contain:
 
 ```text
-weekly-work/week-01/
-└── [introductory activity output]
-
 journal/
 └── week-01.md
 ```
+
+There is no separate Week 1 practical submission.
 
 ## Completion Checklist
 
 - [ ] I can access the central course repository.
 - [ ] I created my private portfolio repository from the supplied template.
 - [ ] I added the instructor as a collaborator.
-- [ ] I uploaded the introductory activity output.
 - [ ] I completed and saved the Week 1 journal entry.
 - [ ] I understand where future tutorials will be published.
-
